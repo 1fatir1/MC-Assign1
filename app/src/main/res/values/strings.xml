@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MC-Assign1</string>
+    <string name="Send_Message">Send</string>
+    <string name="Receive_Message">Receive</string>
+    <string name="Delete_Message">Delete</string>
 </resources>
